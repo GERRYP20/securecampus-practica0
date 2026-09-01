@@ -1,3 +1,6 @@
+## Secure Campus
+Proyecto academico de la asignatura de Desarrollo Seguro
+
 ## Equipo
 
 - Hernandez Reyes Brisa Yaremi
